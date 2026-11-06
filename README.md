@@ -48,3 +48,6 @@ Pre-build (v0.1.0 scaffold). See [ROADMAP.md](ROADMAP.md), [CHANGELOG.md](CHANGE
 ## Contributing
 
 Read [AGENTS.md](AGENTS.md), [DESIGN.md](DESIGN.md), [SPECIFICATION.md](SPECIFICATION.md). AI use disclosed per [SECURITY.md](SECURITY.md).
+
+## Notice
+This project is independently developed and is not affiliated with, endorsed by, or sponsored by AdaCore or the Fluent/Mozilla, W3C, and Open Container Initiative projects. Ada and SPARK are trademarks of their respective owners, used descriptively to indicate the implementation language only.
